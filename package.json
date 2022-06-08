@@ -1,7 +1,7 @@
 {
-  "name": "raganork",
+  "name": "nicos bot",
   "version": "1.0.2",
-  "description": "Raganork whatsapp bot- Multi device version.",
+  "description": "nicoowrldx whatsapp bot- Multi device version.",
   "main": "./Raganork/index.js",
   "scripts": {
     "start": "supervisor -s index.js"
